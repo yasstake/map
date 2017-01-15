@@ -1,0 +1,716 @@
+{
+  "Light_Magenta_120": {
+    "width": 37,
+    "height": 37,
+    "x": 0,
+    "y": 0,
+    "pixelRatio": 1
+  },
+  "Light_White_120": {
+    "width": 37,
+    "height": 37,
+    "x": 37,
+    "y": 0,
+    "pixelRatio": 1
+  },
+  "Light_Yellow_060": {
+    "width": 37,
+    "height": 37,
+    "x": 0,
+    "y": 37,
+    "pixelRatio": 1
+  },
+  "Light_Red_240": {
+    "width": 37,
+    "height": 37,
+    "x": 37,
+    "y": 37,
+    "pixelRatio": 1
+  },
+  "Light_White_060": {
+    "width": 37,
+    "height": 37,
+    "x": 74,
+    "y": 0,
+    "pixelRatio": 1
+  },
+  "Light_Red_120": {
+    "width": 37,
+    "height": 37,
+    "x": 74,
+    "y": 37,
+    "pixelRatio": 1
+  },
+  "Light_Red_060": {
+    "width": 37,
+    "height": 37,
+    "x": 0,
+    "y": 74,
+    "pixelRatio": 1
+  },
+  "Light": {
+    "width": 37,
+    "height": 37,
+    "x": 37,
+    "y": 74,
+    "pixelRatio": 1
+  },
+  "Light_Green_060": {
+    "width": 37,
+    "height": 37,
+    "x": 74,
+    "y": 74,
+    "pixelRatio": 1
+  },
+  "Light_Yellow_120": {
+    "width": 37,
+    "height": 37,
+    "x": 111,
+    "y": 0,
+    "pixelRatio": 1
+  },
+  "Light_White_240": {
+    "width": 37,
+    "height": 37,
+    "x": 111,
+    "y": 37,
+    "pixelRatio": 1
+  },
+  "Light_Green_120": {
+    "width": 37,
+    "height": 37,
+    "x": 111,
+    "y": 74,
+    "pixelRatio": 1
+  },
+  "Light_Green_240": {
+    "width": 37,
+    "height": 37,
+    "x": 0,
+    "y": 111,
+    "pixelRatio": 1
+  },
+  "Light_Magenta_060": {
+    "width": 37,
+    "height": 37,
+    "x": 37,
+    "y": 111,
+    "pixelRatio": 1
+  },
+  "Light_House": {
+    "width": 24,
+    "height": 24,
+    "x": 74,
+    "y": 111,
+    "pixelRatio": 1
+  },
+  "Light_Major": {
+    "width": 24,
+    "height": 24,
+    "x": 98,
+    "y": 111,
+    "pixelRatio": 1
+  },
+  "Light_Minor": {
+    "width": 24,
+    "height": 24,
+    "x": 122,
+    "y": 111,
+    "pixelRatio": 1
+  },
+  "LLight": {
+    "width": 24,
+    "height": 24,
+    "x": 148,
+    "y": 0,
+    "pixelRatio": 1
+  },
+  "Pillar_Red_White": {
+    "width": 15,
+    "height": 33,
+    "x": 148,
+    "y": 24,
+    "pixelRatio": 1
+  },
+  "Pillar_Green_White_Green_White": {
+    "width": 15,
+    "height": 33,
+    "x": 148,
+    "y": 57,
+    "pixelRatio": 1
+  },
+  "Pillar_Yellow_Black_Yellow": {
+    "width": 15,
+    "height": 33,
+    "x": 148,
+    "y": 90,
+    "pixelRatio": 1
+  },
+  "Pillar_Red_Green_Red_Green": {
+    "width": 15,
+    "height": 33,
+    "x": 172,
+    "y": 0,
+    "pixelRatio": 1
+  },
+  "Pillar_Yellow_Black": {
+    "width": 15,
+    "height": 33,
+    "x": 172,
+    "y": 33,
+    "pixelRatio": 1
+  },
+  "Pillar_Black_Red_Black": {
+    "width": 15,
+    "height": 33,
+    "x": 172,
+    "y": 66,
+    "pixelRatio": 1
+  },
+  "Pillar_Red_Green_Red": {
+    "width": 15,
+    "height": 33,
+    "x": 172,
+    "y": 99,
+    "pixelRatio": 1
+  },
+  "Pillar": {
+    "width": 15,
+    "height": 33,
+    "x": 0,
+    "y": 148,
+    "pixelRatio": 1
+  },
+  "Pillar_Green": {
+    "width": 15,
+    "height": 33,
+    "x": 15,
+    "y": 148,
+    "pixelRatio": 1
+  },
+  "Pillar_Black_Yellow": {
+    "width": 15,
+    "height": 33,
+    "x": 30,
+    "y": 148,
+    "pixelRatio": 1
+  },
+  "Pillar_Green_Red_Green": {
+    "width": 15,
+    "height": 33,
+    "x": 45,
+    "y": 148,
+    "pixelRatio": 1
+  },
+  "Pillar_Red_White_Red_White": {
+    "width": 15,
+    "height": 33,
+    "x": 60,
+    "y": 148,
+    "pixelRatio": 1
+  },
+  "Pillar_Black_Yellow_Black": {
+    "width": 15,
+    "height": 33,
+    "x": 75,
+    "y": 148,
+    "pixelRatio": 1
+  },
+  "Pillar_Red": {
+    "width": 15,
+    "height": 33,
+    "x": 90,
+    "y": 148,
+    "pixelRatio": 1
+  },
+  "Pillar_Yellow": {
+    "width": 15,
+    "height": 33,
+    "x": 105,
+    "y": 148,
+    "pixelRatio": 1
+  },
+  "Top_Triangle_Inv_Red_Beacon": {
+    "width": 9,
+    "height": 54,
+    "x": 187,
+    "y": 0,
+    "pixelRatio": 1
+  },
+  "Top_X_Yellow_Beacon": {
+    "width": 9,
+    "height": 54,
+    "x": 187,
+    "y": 54,
+    "pixelRatio": 1
+  },
+  "Top_East_Beacon": {
+    "width": 9,
+    "height": 54,
+    "x": 187,
+    "y": 108,
+    "pixelRatio": 1
+  },
+  "Top_Can_Red_Beacon": {
+    "width": 9,
+    "height": 54,
+    "x": 196,
+    "y": 0,
+    "pixelRatio": 1
+  },
+  "Top_ConesDU_Beacon": {
+    "width": 9,
+    "height": 54,
+    "x": 196,
+    "y": 54,
+    "pixelRatio": 1
+  },
+  "Top_X_Red_Beacon": {
+    "width": 9,
+    "height": 54,
+    "x": 196,
+    "y": 108,
+    "pixelRatio": 1
+  },
+  "Top_X_Beacon": {
+    "width": 9,
+    "height": 54,
+    "x": 205,
+    "y": 0,
+    "pixelRatio": 1
+  },
+  "Top_West_Beacon": {
+    "width": 9,
+    "height": 54,
+    "x": 205,
+    "y": 54,
+    "pixelRatio": 1
+  },
+  "Top_Triangle_White_Green_Beacon": {
+    "width": 9,
+    "height": 54,
+    "x": 205,
+    "y": 108,
+    "pixelRatio": 1
+  },
+  "Top_Diamond_Green_White_Beacon": {
+    "width": 9,
+    "height": 54,
+    "x": 214,
+    "y": 0,
+    "pixelRatio": 1
+  },
+  "Top_Triangle_Inv_White_Red_Beacon": {
+    "width": 9,
+    "height": 54,
+    "x": 214,
+    "y": 54,
+    "pixelRatio": 1
+  },
+  "Top_Triangle_Inv_Beacon": {
+    "width": 9,
+    "height": 54,
+    "x": 214,
+    "y": 108,
+    "pixelRatio": 1
+  },
+  "Top_Triangle_Green_Beacon": {
+    "width": 9,
+    "height": 54,
+    "x": 223,
+    "y": 0,
+    "pixelRatio": 1
+  },
+  "Top_Square_Yellow_Black_Yellow_Beacon": {
+    "width": 9,
+    "height": 54,
+    "x": 223,
+    "y": 54,
+    "pixelRatio": 1
+  },
+  "Top_Square_White_Red_Beacon": {
+    "width": 9,
+    "height": 54,
+    "x": 223,
+    "y": 108,
+    "pixelRatio": 1
+  },
+  "Top_South_Beacon": {
+    "width": 9,
+    "height": 54,
+    "x": 232,
+    "y": 0,
+    "pixelRatio": 1
+  },
+  "Top_Sphere_Red_Beacon": {
+    "width": 9,
+    "height": 54,
+    "x": 232,
+    "y": 54,
+    "pixelRatio": 1
+  },
+  "Top_Isol_Beacon": {
+    "width": 9,
+    "height": 54,
+    "x": 232,
+    "y": 108,
+    "pixelRatio": 1
+  },
+  "Top_Can_Beacon": {
+    "width": 9,
+    "height": 54,
+    "x": 0,
+    "y": 181,
+    "pixelRatio": 1
+  },
+  "Top_Square_Beacon": {
+    "width": 9,
+    "height": 54,
+    "x": 9,
+    "y": 181,
+    "pixelRatio": 1
+  },
+  "Top_Cone_Green_Beacon": {
+    "width": 9,
+    "height": 54,
+    "x": 18,
+    "y": 181,
+    "pixelRatio": 1
+  },
+  "Top_Diamond_Yellow_Black_Yellow_Beacon": {
+    "width": 9,
+    "height": 54,
+    "x": 27,
+    "y": 181,
+    "pixelRatio": 1
+  },
+  "Top_Sphere_Beacon": {
+    "width": 9,
+    "height": 54,
+    "x": 36,
+    "y": 181,
+    "pixelRatio": 1
+  },
+  "Top_Cone_Beacon": {
+    "width": 9,
+    "height": 54,
+    "x": 45,
+    "y": 181,
+    "pixelRatio": 1
+  },
+  "Top_Can_Green_Beacon": {
+    "width": 9,
+    "height": 54,
+    "x": 54,
+    "y": 181,
+    "pixelRatio": 1
+  },
+  "Top_Can_Red_White_Red_Beacon": {
+    "width": 9,
+    "height": 54,
+    "x": 63,
+    "y": 181,
+    "pixelRatio": 1
+  },
+  "Top_Can_Yellow_Beacon": {
+    "width": 9,
+    "height": 54,
+    "x": 72,
+    "y": 181,
+    "pixelRatio": 1
+  },
+  "Top_Sphere_Red_Green_Beacon": {
+    "width": 9,
+    "height": 54,
+    "x": 81,
+    "y": 181,
+    "pixelRatio": 1
+  },
+  "Top_Cone_Yellow_Beacon": {
+    "width": 9,
+    "height": 54,
+    "x": 90,
+    "y": 181,
+    "pixelRatio": 1
+  },
+  "Top_Cone_Inv_Beacon": {
+    "width": 9,
+    "height": 54,
+    "x": 99,
+    "y": 181,
+    "pixelRatio": 1
+  },
+  "Top_Cone_Inv_Red_Beacon": {
+    "width": 9,
+    "height": 54,
+    "x": 108,
+    "y": 181,
+    "pixelRatio": 1
+  },
+  "Top_Cone_Red_Beacon": {
+    "width": 9,
+    "height": 54,
+    "x": 117,
+    "y": 181,
+    "pixelRatio": 1
+  },
+  "Top_Square_White_Red_White_Beacon": {
+    "width": 9,
+    "height": 54,
+    "x": 126,
+    "y": 181,
+    "pixelRatio": 1
+  },
+  "Top_Diamond_Beacon": {
+    "width": 9,
+    "height": 54,
+    "x": 135,
+    "y": 181,
+    "pixelRatio": 1
+  },
+  "Top_ConesDU_Red_Green_Beacon": {
+    "width": 9,
+    "height": 54,
+    "x": 144,
+    "y": 181,
+    "pixelRatio": 1
+  },
+  "Top_Cross_Beacon": {
+    "width": 9,
+    "height": 54,
+    "x": 153,
+    "y": 181,
+    "pixelRatio": 1
+  },
+  "Top_Cross_Yellow_Beacon": {
+    "width": 9,
+    "height": 54,
+    "x": 162,
+    "y": 181,
+    "pixelRatio": 1
+  },
+  "Top_Triangle_Beacon": {
+    "width": 9,
+    "height": 54,
+    "x": 171,
+    "y": 181,
+    "pixelRatio": 1
+  },
+  "Top_North_Beacon": {
+    "width": 9,
+    "height": 54,
+    "x": 180,
+    "y": 181,
+    "pixelRatio": 1
+  },
+  "Top_Diamond_White_Green_Beacon": {
+    "width": 9,
+    "height": 54,
+    "x": 189,
+    "y": 181,
+    "pixelRatio": 1
+  },
+  "LaneArrow": {
+    "width": 12,
+    "height": 37,
+    "x": 198,
+    "y": 181,
+    "pixelRatio": 1
+  },
+  "Can_Green_Red_Green": {
+    "width": 20,
+    "height": 20,
+    "x": 148,
+    "y": 123,
+    "pixelRatio": 1
+  },
+  "Can_Yellow": {
+    "width": 20,
+    "height": 20,
+    "x": 120,
+    "y": 148,
+    "pixelRatio": 1
+  },
+  "Can_Red_Green_Red": {
+    "width": 20,
+    "height": 20,
+    "x": 140,
+    "y": 148,
+    "pixelRatio": 1
+  },
+  "Can_Red": {
+    "width": 20,
+    "height": 20,
+    "x": 160,
+    "y": 148,
+    "pixelRatio": 1
+  },
+  "Can_Yellow_Black_Yellow": {
+    "width": 20,
+    "height": 20,
+    "x": 210,
+    "y": 181,
+    "pixelRatio": 1
+  },
+  "Can_Red_White_Red_White": {
+    "width": 20,
+    "height": 20,
+    "x": 241,
+    "y": 0,
+    "pixelRatio": 1
+  },
+  "Can_Yellow_Black": {
+    "width": 20,
+    "height": 20,
+    "x": 241,
+    "y": 20,
+    "pixelRatio": 1
+  },
+  "Can_Green": {
+    "width": 20,
+    "height": 20,
+    "x": 241,
+    "y": 40,
+    "pixelRatio": 1
+  },
+  "Can_Red_Green_Red_Green": {
+    "width": 20,
+    "height": 20,
+    "x": 241,
+    "y": 60,
+    "pixelRatio": 1
+  },
+  "Can_Black_Yellow_Black": {
+    "width": 20,
+    "height": 20,
+    "x": 241,
+    "y": 80,
+    "pixelRatio": 1
+  },
+  "Can_Black_Yellow": {
+    "width": 20,
+    "height": 20,
+    "x": 241,
+    "y": 100,
+    "pixelRatio": 1
+  },
+  "Can_Black_Red_Black": {
+    "width": 20,
+    "height": 20,
+    "x": 241,
+    "y": 120,
+    "pixelRatio": 1
+  },
+  "Can": {
+    "width": 20,
+    "height": 20,
+    "x": 241,
+    "y": 140,
+    "pixelRatio": 1
+  },
+  "Beacon_Red_Green_Red": {
+    "width": 9,
+    "height": 39,
+    "x": 241,
+    "y": 160,
+    "pixelRatio": 1
+  },
+  "Beacon_Black_Red_Black": {
+    "width": 9,
+    "height": 39,
+    "x": 250,
+    "y": 160,
+    "pixelRatio": 1
+  },
+  "Beacon_Black_Yellow_Black": {
+    "width": 9,
+    "height": 39,
+    "x": 261,
+    "y": 0,
+    "pixelRatio": 1
+  },
+  "Beacon_Green": {
+    "width": 9,
+    "height": 39,
+    "x": 261,
+    "y": 39,
+    "pixelRatio": 1
+  },
+  "Beacon_Red_Green_Red_Green": {
+    "width": 9,
+    "height": 39,
+    "x": 261,
+    "y": 78,
+    "pixelRatio": 1
+  },
+  "Beacon_Green_White_Green_White": {
+    "width": 9,
+    "height": 39,
+    "x": 261,
+    "y": 117,
+    "pixelRatio": 1
+  },
+  "Beacon_Red": {
+    "width": 9,
+    "height": 39,
+    "x": 261,
+    "y": 156,
+    "pixelRatio": 1
+  },
+  "Beacon_Green_Red_Green": {
+    "width": 9,
+    "height": 39,
+    "x": 261,
+    "y": 195,
+    "pixelRatio": 1
+  },
+  "Beacon_Yellow_Black_Yellow": {
+    "width": 9,
+    "height": 39,
+    "x": 270,
+    "y": 0,
+    "pixelRatio": 1
+  },
+  "Beacon_Red_White": {
+    "width": 9,
+    "height": 39,
+    "x": 270,
+    "y": 39,
+    "pixelRatio": 1
+  },
+  "Beacon_Red_White_Red_White": {
+    "width": 9,
+    "height": 39,
+    "x": 270,
+    "y": 78,
+    "pixelRatio": 1
+  },
+  "Beacon_Yellow": {
+    "width": 9,
+    "height": 39,
+    "x": 270,
+    "y": 117,
+    "pixelRatio": 1
+  },
+  "Beacon": {
+    "width": 9,
+    "height": 39,
+    "x": 270,
+    "y": 156,
+    "pixelRatio": 1
+  },
+  "Beacon_Yellow_Black": {
+    "width": 9,
+    "height": 39,
+    "x": 270,
+    "y": 195,
+    "pixelRatio": 1
+  },
+  "Beacon_Black_Yellow": {
+    "width": 9,
+    "height": 39,
+    "x": 0,
+    "y": 235,
+    "pixelRatio": 1
+  }
+}

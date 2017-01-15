@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html style='height:100%'>
+  <head>
+    <script src='./gl/mapbox-gl.js'></script>
+    <link href='./gl/mapbox-gl.css' rel='stylesheet' />
+   
+</head>
+<body style='height: 100%;'>
+  <div id='map' style='width: 100%; height: 100%;'></div>
+  <script>
+      var map = new mapboxgl.Map({
+      container: 'map',
+      style: './seastyle.json'
+      });
+      </script>
+</body>
+</html>

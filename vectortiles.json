@@ -1,0 +1,19 @@
+{
+  "tiles": [
+      "http://map.str.cloudn-service.com/seatile/{z}/{x}/{y}.pbf"
+  ],
+  "name": "osm2vectortiles",
+  "format": "pbf",
+  "basename": "osm2vectortiles",
+  "id": "osm2vectortiles",
+  "filesize": 1556534272,
+  "mtime": "1463000297761",
+  "maskLevel": "8",
+  "_prefs": {
+    "disabled": [],
+    "inspector": false,
+    "mapid": "",
+    "rev": "",
+    "saveCenter": true
+  }
+}
