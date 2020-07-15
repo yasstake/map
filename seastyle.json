@@ -44,11 +44,11 @@
   "pitch": 0,
   "sources": {
     "seasource": {
-      "url": "http://192.168.0.110/map/vectortiles.json",
+      "url": "http://192.168.0.10:8000/services/seamap/",
       "type": "vector"
     }
   },
-  "sprite": "http://192.168.0.110/map/sprites/seamap",
+  "sprite": "http://192.168.0.10/sprite",
   "glyphs": "http://192.168.0.110/map/glyphs/{fontstack}/{range}.pbf",
   "layers": [
     {
@@ -69,7 +69,7 @@
         "mapbox:group": "1457706415041.1006"
       },
       "source": "seasource",
-      "source-layer": "fishing_right",
+      "source-layer": "fisher_net",
       "minzoom": 6,
       "layout": {
         "visibility": "visible"
@@ -86,7 +86,7 @@
         "mapbox:group": "1457706415041.1006"
       },
       "source": "seasource",
-      "source-layer": "fishing_right",
+      "source-layer": "fisher_net",
       "minzoom": 12,
       "filter": [
         "==",
@@ -177,7 +177,7 @@
         "mapbox:group": "12419ec9d4d3a90da172d7bb0aeed168"
       },
       "source": "seasource",
-      "source-layer": "land_polygon",
+      "source-layer": "land",
       "layout": {
         "line-join": "round",
         "visibility": "visible"
@@ -194,7 +194,7 @@
         "mapbox:group": "12419ec9d4d3a90da172d7bb0aeed168"
       },
       "source": "seasource",
-      "source-layer": "land_polygon",
+      "source-layer": "land",
       "layout": {
         "visibility": "visible"
       },
@@ -729,7 +729,7 @@
         "mapbox:group": "1457707179902.244"
       },
       "source": "seasource",
-      "source-layer": "light",
+      "source-layer": "light_house",
       "minzoom": 9,
       "filter": [
         "==",
@@ -785,7 +785,7 @@
         "mapbox:group": "1457707179902.244"
       },
       "source": "seasource",
-      "source-layer": "light",
+      "source-layer": "light_house",
       "minzoom": 9,
       "filter": [
         "==",
