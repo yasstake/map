@@ -723,6 +723,39 @@
       "paint": {}
     },
     {
+      "id": "buoy-general",
+      "type": "symbol",
+      "metadata": {
+        "mapbox:group": "1457828914250.9673"
+      },
+      "source": "seasource",
+      "source-layer": "float",
+      "minzoom": 5,
+      "filter": [
+        "==",
+        "type",
+        "buoy"
+      ],
+      "layout": {
+        "text-font": [
+          "noto"
+        ],
+        "text-size": 10,
+        "text-allow-overlap": true,
+        "icon-image": "Pillar",
+        "icon-allow-overlap": true,
+        "visibility": "visible",
+        "text-offset": [
+          0.5,
+          1
+        ],
+        "text-anchor": "top-left",
+        "text-field": "{name}",
+        "icon-ignore-placement": true
+      },
+      "paint": {}
+    },
+    {
       "id": "light-minor",
       "type": "symbol",
       "metadata": {
